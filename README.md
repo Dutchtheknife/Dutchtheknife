@@ -1,16 +1,21 @@
-## Hi there 👋
+# Dutch CyberWorks
 
-<!--
-**Dutchtheknife/Dutchtheknife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Practical projects in cybersecurity, embedded AI, electronics, Raspberry Pi, ESP32 firmware, and custom 3D-printed hardware.
 
-Here are some ideas to get you started:
+## Current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **XiaoZhi / Black Deck** — Embedded AI hardware and enclosure development
+- **RaspyJack** — Raspberry Pi-based field hardware
+- **Ragnar** — Custom electronics and 3D-printed hardware
+- **Pwnagotchi** — Authorized wireless-security lab work
+- **Firmware** — Device configuration, experiments, and build notes
+- **3D-print cases** — Enclosures, inserts, mounts, and fit documentation
+- **Field notes** — Practical observations, testing notes, and lessons learned
+
+## About Dutch CyberWorks
+
+Dutch CyberWorks documents practical, authorized work across hardware, software, cybersecurity, and small technology products.
+
+Repositories will include original work, properly attributed open-source material, and clearly documented experiments. Secrets, private credentials, and unverified third-party assets are not included.
+
+More projects will be added as they reach a shareable state.
